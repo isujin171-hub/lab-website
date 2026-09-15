@@ -104,7 +104,7 @@ const students = [
     topic: "",
   },
   {
-    name: "Sujin ee",
+    name: "Sujin Lee",
     level: "undergraduate",
     degree: "Undergraduate Student",
     email: "sujin7032@hanyang.ac.kr",
