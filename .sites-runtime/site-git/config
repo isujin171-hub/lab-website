@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = /home/mesylab/Documents/LEE/LAB/홈페이지
+[user]
+	name = Codex Sites
+	email = sites@openai.com
